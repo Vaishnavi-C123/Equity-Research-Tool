@@ -16,6 +16,14 @@ This project is an AI-powered Equity Research Tool that allows users to analyze 
 
 ---
 
+## 🔐 API Key Setup
+
+This project requires an API key.
+
+1. Create a `.env` file  
+2. Add your key:
+   GEMINI_API_KEY=your_key_here
+
 ## 🛠️ Tech Stack
 - Python  
 - Streamlit  
