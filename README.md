@@ -38,7 +38,7 @@ ai-equity-research-tool/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ai-equity-research-tool.git
+git clone https://github.com/Vaishnavi-C123/Equity-Research-Tool
 
 
 2. Navigate to the project folder:
