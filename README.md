@@ -71,6 +71,7 @@ streamlit run app_ui.py
 TCS.NS
 INFY.NS
 RELIANCE.NS
+IBM.NS
 
 
 ---
